@@ -1,6 +1,6 @@
 ---
 title: "Real Time Chord-Recognition Algorithm"
-excerpt: "As someone who doesn't have perfect pitch, I've always wanted a chord recognition system that could help me figure out the chords my favorite artists play. So, I decided to create one myself. <br/><img src='/images/chord-rec.png'>"
+excerpt: "As someone who doesn't have perfect pitch, I've always wanted a chord recognition system that could help me figure out the chords my favorite artists play. So, I decided to create one myself. <br/><img width='660' height='415' src='/images/chord-rec.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Augmented Reality DJing"
-excerpt: "I strongly believe in Augmented Reality's potential to revolutionize our musical experience, both for listeners and composers. I envision a future where we no longer rely on physical instruments to create music. In this project, I utilize object detection algorithms to apply audio effects to your favorite tunes, simply by moving your hands in space—no DJ decks required. <br/><img src='/images/AR-DJ_image.png'>"
+excerpt: "I strongly believe in Augmented Reality's potential to revolutionize our musical experience, both for listeners and composers. I envision a future where we no longer rely on physical instruments to create music. In this project, I utilize object detection algorithms to apply audio effects to your favorite tunes, simply by moving your hands in space—no DJ decks required. <br/><img width='660' height='415' src='/images/AR-DJ_image.png'>"
 collection: portfolio
 ---
 Vision : I strongly believe in Augmented Reality's potential to revolutionize our musical experience, both for listeners and composers. I envision a future where we no longer rely on physical instruments to create music.
