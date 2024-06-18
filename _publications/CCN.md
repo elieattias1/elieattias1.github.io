@@ -2,7 +2,7 @@
 title: "Pixel-Based Similarities as Alternative to Neural Data in CNN Regularization Against Adversarial Attacks"
 collection: publications
 permalink: /publication/CCN
-excerpt: 'This paper is about a neuroscience inspired defense against adversarial attacks.'
+excerpt: 'This paper is about a neuroscience inspired defense against adversarial attacks for image classification tasks.'
 date: 2024-08-06
 venue: 'Cognitive Computational Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
