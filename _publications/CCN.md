@@ -6,7 +6,7 @@ excerpt: 'This paper is about a neuroscience inspired defense against adversaria
 date: 2024-08-06
 venue: 'Cognitive Computational Neuroscience'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://elieattias1.github.io/files/CCN.pdf'
+paperurl: 'https://2024.ccneuro.org/poster/?id=513'
 citation: 'Elie Attias, Cengiz Pehlevan, Dina Obeid (2024)'
 ---
 
