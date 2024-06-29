@@ -1,6 +1,6 @@
 ---
 title: "Metropolis"
-excerpt: " Mobile App to get historical insights on Parisian Metro Stations <br/><img width='660' height='415' src='/images/logo_metro.png'>"
+excerpt: " Mobile App to get historical insights on Parisian Metro Stations <br/><img width='360' height='315' src='/images/logo_metro.png'>"
 collection: portfolio
 ---
 
