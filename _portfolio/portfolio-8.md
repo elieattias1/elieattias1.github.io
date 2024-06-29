@@ -1,6 +1,6 @@
 ---
 title: "AiB: An AI-Powered Investment Memo Generator"
-excerpt: " AI Assistant to Generate Investment Memos based given the URL of a company  <br/><img width='660' height='415' src='/images/AiB.png'>"
+excerpt: "An AI Assistant designed to generate detailed investment memos from a company's UR  <br/><img width='660' height='415' src='/images/AiB.png'>"
 collection: portfolio
 ---
 
