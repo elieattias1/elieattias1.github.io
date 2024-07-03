@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* July 2023 - June 2024: Research Assistant - Pehlevan Lab at Harvard supervised by Professors Dina Obeid and Cengiz Pehlevan
-  * Worked on CNN's adversarial robustness
+* July 2023 - June 2024: Research Assistant - Pehlevan Lab at Harvard
+  * Worked on CNNs' adversarial robustness, supervised by Professors Cengiz Pehlevan and Dina Obeid
 
 * September 2022 - April 2024: CEO & Co-Founder - Anemone
   * [Anemone](https://anemone.paris) is an alternative to LinkedIn dedicated to cultural and creative industries
