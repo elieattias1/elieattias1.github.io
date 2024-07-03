@@ -17,17 +17,14 @@ Education
 
 Work experience
 ======
-* July 2023 - June 2024: Research Assistant - Pehlevan Lab
-  * Harvard University
-  * Supervisor: Professors Dina Obeid and Cengiz Pehlevan
+* July 2023 - June 2024: Research Assistant - Pehlevan Lab at Harvard supervised by Professors Dina Obeid and Cengiz Pehlevan
+  * Worked on CNN's adversarial robustness
 
 * September 2022 - April 2024: CEO & Co-Founder - Anemone
   * [Anemone](https://anemone.paris) is an alternative to LinkedIn dedicated to cultural and creative industries
-  * Recipient of a 30k€ subsidy from French Public Investment Bank (BPI) and Greater Paris Region
 
-* Summer 2021: Research Assistant
-  * National Institute for Research in Digital Technology (INRIA)
-  * Supervisor: Professor Martin Genet
+* Summer 2021: Research Assistant in the M3DISIM team at INRIA
+  * Worked on modeling lung deformation using the finite elements method
  
 
 Publications
