@@ -1,6 +1,6 @@
 ---
-title: "Applying network science to simulate and validate the geographical exposure of infrastructure to natural disasters, with an application to the recent earthquakes in Turkey/Syria"
-excerpt: "The Turkish road network was exposed to a series of earthquakes from Feb 2nd 2023 to Feb 10th 2023, located close to the Turkish-Syrian border. We were able to identify recurring isolated components, which could help identify the optimal locations for emergency resource centers in future similar natural disasters. Project as part of the Network Science and Models course 6.7260 at MIT. <br/><img width='660' height='415' src='/images/earthquakes.png'>"
+title: "Simulating the Exposure of Turkish Road Networks to Natural Disasters: A Case Study of the Recent Earthquakes in Turkey/Syria"
+excerpt: "From February 2nd to February 10th, 2023, a series of earthquakes impacted the Turkish road network near the Turkish-Syrian border. Through our analysis, we identified recurring isolated components, providing insights into optimal locations for emergency resource centers in future disasters. This project was completed as part of the Network Science and Models course (6.7260) at MIT.  <br/><img width='660' height='415' src='/images/earthquakes.png'>"
 collection: portfolio
 ---
 
