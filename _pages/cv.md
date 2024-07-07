@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* ME in Computational Science and Engineering, Harvard University, 2024
+* MEng in Computational Science and Engineering, Harvard University, 2024
 * BSc in Mathematics and Physics, Biology minor, Ecole Polytechnique, 2022
 * Visiting student in Engineering, Oxford University, Fall 2021
 
