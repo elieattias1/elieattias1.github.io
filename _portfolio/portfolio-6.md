@@ -1,6 +1,6 @@
 ---
 title: "Generating Abstract Art with Deep Convolutional GANs (DCGANs)"
-excerpt: "Using a public abstract art gallery database to train DCGANs to generate (beautiful) shapes and colours"
+excerpt: "Using a public abstract art gallery database to train DCGANs to generate (beautiful) shapes and colours <br/><img width='660' height='415' src='/images/DCGAN.png'>"
 collection: portfolio
 ---
 
