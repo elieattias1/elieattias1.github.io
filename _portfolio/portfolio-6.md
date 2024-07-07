@@ -4,4 +4,4 @@ excerpt: "Using database of abstract art paintings to train DCGANs to generate (
 collection: portfolio
 ---
 
-<iframe width="360" height="315" src="https://www.youtube.com/embed/d0goVAkcjT0" frameborder="0" allowfullscreen></iframe>
+<iframe width="360" height="315" src="https://www.youtube.com/embed/ra2y9G_x5JE" frameborder="0" allowfullscreen></iframe>
