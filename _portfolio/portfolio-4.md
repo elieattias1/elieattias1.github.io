@@ -1,6 +1,6 @@
 ---
 title: "Extending Lotka-Volterra Equations to N-Species"
-excerpt: "Expanding the 2-species Lotka-Volterra equations to n-species for simulating prey-predator population dynamics. This project, part of the AM205 course at Harvard, rigorously solved the extended equations.  <br/><img width='660' height='415' src='/images/LV.png'>"
+excerpt: "Expanding the 2-species Lotka-Volterra equations to n-species for simulating prey-predator population dynamics. This project, part of the AM205 course at Harvard, solved the extended equations.  <br/><img width='660' height='415' src='/images/LV.png'>"
 collection: portfolio
 ---
 
