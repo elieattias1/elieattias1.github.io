@@ -5,7 +5,7 @@ permalink: /publication/CCN
 excerpt: 'This paper is about a neuroscience inspired defense against adversarial attacks for image classification tasks.'
 date: 2024-08-06
 venue: 'Cognitive Computational Neuroscience Conference'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://academicpages.github.io/files/CCN_Poster'
 paperurl: 'https://2024.ccneuro.org/poster/?id=513'
 citation: 'Elie Attias, Cengiz Pehlevan, Dina Obeid (2024)'
 ---
