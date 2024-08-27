@@ -24,7 +24,7 @@ Work experience
   * [Anemone](https://anemone.paris) is an alternative to LinkedIn dedicated to cultural and creative industries
 
 * Summer 2021: Research Assistant in the M3DISIM team at INRIA
-  * Worked on modeling lung deformation using the finite elements method
+  * Worked on modeling lung deformation using the finite elements method applied on CT-Scans of lungs with idiopathic fibrosis and Covid-19
  
 
 Publications
