@@ -55,6 +55,7 @@ Teaching
 Awards and Honors
 =====
 * **Recipient of the Arthur Sachs Scholarship** granted to French students admitted to Harvard.
+* **Recipient of a 11k€ non-dilutive subvention** from the French Public Investment Bank (BPI)
 * **Received the following distinction at Ecole Polytechnique:** _Outstanding student who has distinguished himself through his dedication to the Ecole Polytechnique community and to the welfare of society._
 * **Recipient of a 1000€ prize from the [PEPITE PEIPS](https://www.universite-paris-saclay.fr/en/formation/entrepreneuriat-etudiant/pepite-peips)**, to pursue the Anemone venture.
 * **Vice champion** at Ecole Polytechnique Bachelor of Science's speech contest.
