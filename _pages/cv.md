@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* September 2024 - Present : Incoming Software Engineer - Zenlytic
-* July 2023 - June 2024: Research Assistant - Pehlevan Lab at Harvard
+* September 2024 : Incoming Software Engineer - Zenlytic
+* July 2023 - June 2024 : Research Assistant - Pehlevan Lab at Harvard
   * Worked on CNNs' adversarial robustness, supervised by Professors Cengiz Pehlevan and Dina Obeid
 
 * September 2022 - April 2024: CEO & Co-Founder - Anemone
