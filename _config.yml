@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Elie Attias"
   pronouns         : # example: "she/her"  
-  bio              : "Computational Science and Engineering at Harvard"
-  location         : "Cambridge, MA"
-  employer         : "Harvard University"
+  bio              : "Deployment Strategist @ Palantir Technologies"
+  location         : "New York, NY"
+  employer         : "Palantir Technologies"
   uri              : # URL
   email            : "elieattias@g.harvard.edu" 
 
