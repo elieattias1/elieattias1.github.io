@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* September 2024 - Present : Deployment Strategist, Palantir Technologies
+* September 2024 : Incoming Deployment Strategist, Palantir Technologies
 * July 2023 - June 2024 : Research Assistant - Pehlevan Lab at Harvard
   * Worked on CNNs' adversarial robustness, supervised by Professors Cengiz Pehlevan and Dina Obeid
 
