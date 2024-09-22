@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my website !
 
-I'm an incoming Deployment Strategist at Palantir Technologies. I graduated from Harvard with a Master of Engineering in Computational Science and Engineering. Before that, I obtained a Bachelor of Science degree from Ecole Polytechnique, where I double majored in Mathematics and Physics, and minored in Biology.
+I'm a Deployment Strategist at Palantir Technologies. I graduated from Harvard with a Master of Engineering in Computational Science and Engineering. Before that, I obtained a Bachelor of Science degree from Ecole Polytechnique, where I double majored in Mathematics and Physics, and minored in Biology.
 
 I love playing chess and making music.
 
