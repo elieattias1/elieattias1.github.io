@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/arxiv
 excerpt: 'This paper presents further results of the paper cited below.'
 date: 2024-10-08
-# venue: 'Cognitive Computational Neuroscience Conference'
+venue: 'Arxiv'
 # slidesurl: 'http://elieattias1.github.io/files/CCN_Poster.pdf'
 paperurl: 'https://arxiv.org/abs/2410.03952'
 citation: 'Elie Attias, Cengiz Pehlevan, Dina Obeid (2024)'
